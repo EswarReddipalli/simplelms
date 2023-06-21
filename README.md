@@ -1,5 +1,5 @@
-# GenZReadify - Your Digital Sidekick for an Immersive Reading Experience
+# BookMate - Your Personal Digital Reading Companion
 
 ![Feature Image](./documentation/Feature.png)
 
-GenZReadify is an innovative library management system curated specifically for Gen Z readers. This GitHub repository houses the cutting-edge front-end code for the GenZRead web application. The front-end is skillfully crafted using the dynamic trio of HTML, CSS, and JavaScript, empowering users with a seamless book browsing and management experience. With GenZReadify, you can dive into an immersive world of book exploration, enhanced search functionalities, and a Gen Z-inspired interface tailored to your reading preferences.
+Bookmate is a library management system designed to make it easy for users to browse and manage books in a library. This GitHub repository contains the front-end code for the Bookmate web application. The front-end is built using HTML, CSS, and JavaScript, and includes features such as book search
